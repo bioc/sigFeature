@@ -2,7 +2,7 @@ Package: sigFeature
 Type: Package
 Title: sigFeature: Significant feature selection using 
        SVM-RFE & t-statistic
-Version: 1.4.0
+Version: 1.5.0
 Date: 2018-10-23
 Authors@R: c(person("Pijush Das", "Developer", role = c("aut", "cre"),
               email = "topijush@gmail.com"),
